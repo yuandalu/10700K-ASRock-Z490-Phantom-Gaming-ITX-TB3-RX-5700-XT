@@ -108,12 +108,11 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-RX-5600-XT-V1.aml</string>
+				<string>SSDT-RX-5700-XT-V1.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
-		<array>
-		</array>
+		<array/>
 		<key>Patch</key>
 		<array>
 			<dict>
@@ -186,8 +185,7 @@
 	<key>Booter</key>
 	<dict>
 		<key>MmioWhitelist</key>
-		<array>
-		</array>
+		<array/>
 		<key>Quirks</key>
 		<dict>
 			<key>AvoidRuntimeDefrag</key>
@@ -415,8 +413,7 @@
 			</dict>
 		</array>
 		<key>Block</key>
-		<array>
-		</array>
+		<array/>
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
@@ -425,11 +422,9 @@
 			<data></data>
 		</dict>
 		<key>Force</key>
-		<array>
-		</array>
+		<array/>
 		<key>Patch</key>
-		<array>
-		</array>
+		<array/>
 		<key>Quirks</key>
 		<dict>
 			<key>AppleCpuPmCfgLock</key>
@@ -501,8 +496,7 @@
 			<string>External</string>
 		</dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Debug</key>
 		<dict>
 			<key>AppleDebug</key>
@@ -523,8 +517,7 @@
 			<integer>0</integer>
 		</dict>
 		<key>Entries</key>
-		<array>
-		</array>
+		<array/>
 		<key>Security</key>
 		<dict>
 			<key>AllowNvramReset</key>
@@ -641,11 +634,9 @@
 		<key>LegacySchema</key>
 		<dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
-			<array>
-			</array>
+			<array/>
 			<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
-			<array>
-			</array>
+			<array/>
 		</dict>
 		<key>WriteFlash</key>
 		<true/>
@@ -913,8 +904,7 @@
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>
-		<array>
-		</array>
+		<array/>
 	</dict>
 </dict>
 </plist>
