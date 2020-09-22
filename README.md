@@ -1,12 +1,11 @@
-# 10900ES-ASRock-Z490-Phantom-Gaming-ITX-TB3-RX-5700-XT  
+# 10700K-ASRock-Z490-Phantom-Gaming-ITX-TB3-RX-5700-XT  
 
 Boot tool Opencore 0.6.1  
-Use an extension cord to replace the WIFI for BCM943602CDP to get native support.  
+Use an extension cord to replace the WIFI for BCM94352Z 
 EFI author use SSDT to complete Thunderbolt™3 support.  
 
-CPU:i9-10900-ES  
-RAM:ADATA-16G * 2  
-SSD:Toshiba-XG3-1T  
-MB:ASRock-Z490-Phantom-Gaming-ITX-TB3  
-GPU:Intel-UHD-Graphics-630, AMD-RX5700XT-Native  
-Case:ZS-A4-V2  
+CPU:i7-10700k
+RAM:G.SKILL/Trident-8G * 2
+SSD:Samsung-EVO-Plus-512G/WD Black M.2 512G
+MB:ASRock-Z490-Phantom-Gaming-ITX-TB3
+GPU:Intel-UHD-Graphics-630, AMD-RX5700XT-SAPPHIRE
